@@ -1,0 +1,36 @@
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\bin\Debug\penjualan sepatu.exe
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\bin\Debug\penjualan sepatu.pdb
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\bin\Debug\penjualan sepatu.xml
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan_sepatu.Form1.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan_sepatu.Resources.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan sepatu.vbproj.GenerateResource.Cache
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan sepatu.exe
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan sepatu.xml
+C:\Users\atkha\AppData\Local\Temporary Projects\penjualan sepatu\obj\Debug\penjualan sepatu.pdb
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.exe
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.xml
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.pdb
+D:\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.exe
+D:\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.pdb
+D:\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.xml
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\ResolveAssemblyReference.cache
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan_sepatu.Form1.resources
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan_sepatu.Resources.resources
+D:\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.vbproj.GenerateResource.Cache
+D:\atkha\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.exe
+D:\atkha\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.xml
+D:\atkha\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\bin\Debug\penjualan sepatu.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan_sepatu.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan_sepatu.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\penjualan sepatu\penjualan sepatu\obj\Debug\penjualan sepatu.vbproj.GenerateResource.Cache

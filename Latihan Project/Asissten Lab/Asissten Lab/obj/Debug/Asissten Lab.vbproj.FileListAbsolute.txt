@@ -1,0 +1,36 @@
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\bin\Debug\Asissten Lab.exe
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\bin\Debug\Asissten Lab.pdb
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\bin\Debug\Asissten Lab.xml
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten_Lab.Form1.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten_Lab.Form2.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten_Lab.Form3.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten_Lab.Resources.resources
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten Lab.vbproj.GenerateResource.Cache
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten Lab.exe
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten Lab.xml
+C:\Users\atkha\AppData\Local\Temporary Projects\Asissten Lab\obj\Debug\Asissten Lab.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form2.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form3.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\penjualan sepatu\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.vbproj.GenerateResource.Cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\bin\Debug\Asissten Lab.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form2.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Form3.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten_Lab.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\Asissten Lab\Asissten Lab\obj\Debug\Asissten Lab.vbproj.GenerateResource.Cache

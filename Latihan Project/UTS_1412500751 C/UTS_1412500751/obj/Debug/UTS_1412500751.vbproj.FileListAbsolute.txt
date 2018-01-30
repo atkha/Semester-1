@@ -1,0 +1,61 @@
+E:\Vb\UTS_1412500751\UTS_1412500751\bin\Debug\UTS_1412500751.exe
+E:\Vb\UTS_1412500751\UTS_1412500751\bin\Debug\UTS_1412500751.pdb
+E:\Vb\UTS_1412500751\UTS_1412500751\bin\Debug\UTS_1412500751.xml
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\ResolveAssemblyReference.cache
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.Form2.resources
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.Resources.resources
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.vbproj.GenerateResource.Cache
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+E:\Vb\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.Form1.resources
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1412500751\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.exe
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.xml
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\ResolveAssemblyReference.cache
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form2.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form1.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Resources.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.vbproj.GenerateResource.Cache
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+H:\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.exe
+H:\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.pdb
+H:\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.xml
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\ResolveAssemblyReference.cache
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form2.resources
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form1.resources
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Resources.resources
+H:\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.vbproj.GenerateResource.Cache
+D:\atkha\Budi Luhur\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+D:\atkha\Budi Luhur\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+D:\atkha\Budi Luhur\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form2.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.vbproj.GenerateResource.Cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\bin\Debug\UTS_1412500751.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form2.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1412500751 C\UTS_1412500751\obj\Debug\UTS_1412500751.vbproj.GenerateResource.Cache

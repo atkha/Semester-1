@@ -1,0 +1,67 @@
+E:\Data_IK\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Data_IK\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Data_IK\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\UTS_1411500042.vbproj.GenerateResource.Cache
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Data_IK\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHOTEL.resources
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\bin\Debug\UTS_1411500042.exe
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\bin\Debug\UTS_1411500042.pdb
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\bin\Debug\UTS_1411500042.xml
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\WindowsApplication1.frmHOTEL.resources
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\UTS_1411500042.vbproj.GenerateResource.Cache
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1\UTS_1411500042\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1  OK\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1  OK\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\d\Belajar\VB.net\UTS\Jawaban UTS Pemvis kel B1  OK\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\bin\Debug\UTS_1411500042.exe
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\bin\Debug\UTS_1411500042.pdb
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\bin\Debug\UTS_1411500042.xml
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\WindowsApplication1.frmHOTEL.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\d\Belajar\VB.net\Latihan Soal\UTS_1411500042  OK\WindowsApplication1\obj\Debug\UTS_1411500042.vbproj.GenerateResource.Cache
+D:\Data Dosen\Nofi\Pemrograman Visual\VB.net\Latihan Soal\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\Data Dosen\Nofi\Pemrograman Visual\VB.net\Latihan Soal\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\Data Dosen\Nofi\Pemrograman Visual\VB.net\Latihan Soal\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+H:\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.exe
+H:\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.pdb
+H:\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.xml
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.frmHOTEL.resources
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.vbproj.GenerateResource.Cache
+D:\atkha\Budi Luhur\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\atkha\Budi Luhur\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\atkha\Budi Luhur\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.exe
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.pdb
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\bin\Debug\UTS_1411500042.xml
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.frmHOTEL.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\atkha\Budi Luhur\Semester 1\Visual Basic\Materi Visual Basic 1\Latihan Project\UTS_1411500042  B\WindowsApplication1\obj\Debug\UTS_1411500042.vbproj.GenerateResource.Cache
